@@ -1,0 +1,19 @@
+:root{
+    --cor--primaria: rgb(68, 68, 68);
+    --cor--secundaria:rgb(138, 138, 138);
+    --cor--terciaria--:rgb(100, 99, 99);
+}
+
+#conversas-div{
+    padding:10px;
+    color: white;
+    background-color: var(--cor--primaria);
+    height: 100vh;
+}
+#chat-div{
+    border: 0px;
+
+    background-color: var(--cor--secundaria);
+    height: 100vh;
+    
+}

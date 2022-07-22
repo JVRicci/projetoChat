@@ -1,0 +1,19 @@
+#conversa-chat-div{
+    padding: 10px;
+    width: 90%;
+    height: 10%;
+    position: absolute;
+    bottom:10px;
+    background-color:  var(--cor--terciaria--);
+}
+
+#conversa-msgs{
+    overflow:scroll;
+    height: 85%;
+    width: 90%;
+    
+    bottom:10px;
+    justify-content: bottom;
+    
+    position: absolute;
+}
